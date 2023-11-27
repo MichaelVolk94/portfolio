@@ -14,4 +14,4 @@ I learned how to create functional buttons and created individual pages for them
 - [Animate on scroll](https://michalsnik.github.io/aos/)
 
 # External Resources 
-- [Roboto Google font]
+-  https://fonts.google.com/specimen/Roboto [Roboto Google font]
