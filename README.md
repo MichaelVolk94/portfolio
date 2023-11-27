@@ -1,7 +1,13 @@
 # Michael Volk's MTM6201 portfolio
 
 # Project Description 
-Welcome to my web portfolio, I have created this portfolio as part pf the Web Development II course in which we learned about advance CSS and Bootstrap. I built this portfolio based on my design on UX I course where we learned about....
+Welcome to my web portfolio, I have created this portfolio as part of the Web Development II course in which we learned about advance CSS and Bootstrap. I built this portfolio based on my design on UX I course where we learned about....
+
+# Challenges
+Taking the design and breaking it down to smaller chunks was challenging for me... Especially when I had to do it in such a short timeframe.
+
+# Lessons Learned
+I learned how to create functional buttons and created individual pages for them without problem. I also learned to be more comfortable with the material I'm given.
 
 ## Frameworks and Libraries
 - [Bootstrap] (https://getbootstrap.com/)
