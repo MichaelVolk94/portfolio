@@ -1,0 +1,12 @@
+:root{
+    --bs-primary: #CA2CF5;
+    --bs-secondary: #FFE6AC;
+    --bs-primary-rgb: 202, 44, 245;
+    --bs-secondary-rgb: 255, 230, 172;
+    --bs-primary-text-emphasis: #735102;
+    --bs-secondary-text-emphasis: #ab986c;
+    --bs-primary-bg-subtle: #d99e14;
+    --bs-secondary-bg-subtle: #fbebc4;
+    --bs-primary-border-subtle: #d99e14;
+    --bs-secondary-border-subtle: #fbebc4;
+  }
