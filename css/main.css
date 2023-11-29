@@ -10,3 +10,13 @@
     --bs-primary-border-subtle: #d99e14;
     --bs-secondary-border-subtle: #fbebc4;
   }
+
+  .header-img {
+    max-width: 100%;
+    margin: auto;
+  }
+
+  .wrapper {
+    max-width: 1000px;
+    margin: auto;
+  }
