@@ -15,3 +15,9 @@ I learned how to create functional buttons and created individual pages for them
 
 # External Resources 
 -  https://fonts.google.com/specimen/Roboto [Roboto Google font]
+
+## Things to do
+1. add aria lables
+2. add schema information
+3. add skiplinks
+4. to add picture tag with one more image for each image
