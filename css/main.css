@@ -10,7 +10,9 @@
     --bs-primary-border-subtle: #d99e14;
     --bs-secondary-border-subtle: #fbebc4;
   }
-
+.navbar-brand img{
+  max-width: 250px;
+}
   .header-img {
     max-width: 100%;
     margin: auto;
