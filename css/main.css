@@ -26,12 +26,44 @@
     margin: auto;
   }
 
+  form button {
+    background-color: pink;
+    color: black;
+    border: 1px solid black;
+    padding: 1rem;
+  }
+
+  .submit:hover {
+    background-color:lavender;
+    color: black;
+    transition: .5s ease-in-out;
+  }
+
+  .container {
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+
   .bg-primary{
     max-width: 1000px;
     margin: auto;
   }
 
   .product-center{
+    text-align: center;
+  }
+
+  .about-banner {
+    text-align: center;
+  }
+
+  footer{
+    background-color: yellow;
+    max-width: 1000px;
+    position: sticky;
+    height: 40px;
+    margin: auto;
+    display: grid;
     text-align: center;
   }
 
