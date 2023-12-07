@@ -39,6 +39,26 @@
     transition: .5s ease-in-out;
   }
 
+  .order-button {
+    background-color: pink;
+    color: black;
+    border: 1px solid black;
+    padding: 1rem;
+  }
+
+  .button {
+    background-color: pink;
+    color: black;
+    border: 1px solid black;
+    padding: 1rem;
+  }
+
+  .button:hover {
+    background-color:lavender;
+    color: black;
+    transition: .5s ease-in-out;
+  }
+
   .container {
     max-width: 1000px;
     margin: 0 auto;
