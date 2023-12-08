@@ -1,13 +1,13 @@
 # Michael Volk's MTM6201 portfolio
 
 # Project Description 
-Welcome to my web portfolio, I have created this portfolio as part of the Web Development II course in which we learned about advance CSS and Bootstrap. I built this portfolio based on my design on UX I course where we learned about....
+Welcome to my web portfolio, I have created this portfolio as part of the Web Development II course in which we learned about advance CSS and Bootstrap. I built this portfolio based on my design on UX I course where I had to make a business related to a bakery and I had to make examples of Low and High Fidelity wireframes. 
 
 # Challenges
-Taking the design and breaking it down to smaller chunks was challenging for me... Especially when I had to do it in such a short timeframe.
+Making the design and breaking it down to smaller chunks was challenging for me... Especially when I had to do it in such a short timeframe. It also wasn't easy I had other assignments in the way.
 
 # Lessons Learned
-I learned how to create functional buttons and created individual pages for them without problem. I also learned to be more comfortable with the material I'm given.
+I learned how to create functional buttons and created individual pages for them without problem. I also learned to be more comfortable with the material I'm given and be more efficient with my time.
 
 ## Frameworks and Libraries
 - [Bootstrap] (https://getbootstrap.com/)
