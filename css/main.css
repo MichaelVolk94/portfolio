@@ -18,6 +18,13 @@
     margin: auto;
   }
 
+  .skip-links{
+    position: static;
+    width: auto;
+    height: auto;
+    list-style-type: none;
+  }
+
   .picture{
     display: block;
     margin-left: auto;
