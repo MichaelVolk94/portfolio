@@ -1,15 +1,18 @@
 :root{
     --bs-primary: #9200BA;
-    --bs-secondary: #FFE6AC;
+    --bs-secondary: #007EDC;
     --bs-primary-rgb:146, 0, 186;
     --bs-secondary-rgb: 255, 230, 172;
-    --bs-primary-text-emphasis: #735102;
-    --bs-secondary-text-emphasis: #ab986c;
-    --bs-primary-bg-subtle: #d99e14;
-    --bs-secondary-bg-subtle: #fbebc4;
-    --bs-primary-border-subtle: #d99e14;
-    --bs-secondary-border-subtle: #fbebc4;
+    --bs-primary-border-subtle: black;
   }
+
+  .btn-primary,
+  .btn-outline-primary {
+    --bs-btn-color: var(--bs-secondary);
+  --bs-btn-border-color: var(--bs-primary-bg-subtle);
+  --bs-btn-hover-bg: var(--bs-secondary);
+  }
+
 .navbar-brand img{
   max-width: 150px;
 }
