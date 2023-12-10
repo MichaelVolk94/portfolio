@@ -24,7 +24,8 @@ I learned how to create functional buttons and created individual pages for them
 -  https://pixabay.com/photos/cookie-bake-pastry-pastries-sweet-756601/ 
 -  https://pixabay.com/photos/cake-sweet-food-bakery-dessert-727854/ 
 - https://pixabay.com/photos/cupcake-dessert-cake-food-3723832/ 
--  
+-  https://pixabay.com/photos/blueberries-blue-cute-tart-cakes-55455/ 
+-  https://pixabay.com/illustrations/dessert-cake-pie-collage-food-1526620/ 
 
 ## Things to do
 1. add aria lables
