@@ -15,7 +15,7 @@ I learned how to create functional buttons and created individual pages for them
 
 # External Resources 
 -  https://fonts.google.com/specimen/Roboto [Roboto Google font]
--  https://pixabay.com/ Several stock images that relate to my baking company which will be shown below
+-  https://pixabay.com/ Several stock images that relate to my baking company which will be shown below that I used
 -  https://pixabay.com/illustrations/apple-pie-sweet-food-fruit-pie-7519981/ 
 -  https://pixabay.com/photos/cake-pops-pastries-food-dessert-693645/ 
 -  https://pixabay.com/photos/boy-child-eating-happy-cupcake-358296/ 
