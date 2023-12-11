@@ -16,17 +16,12 @@ I learned how to create functional buttons and created individual pages for them
 # External Resources 
 -  https://fonts.google.com/specimen/Roboto [Roboto Google font]
 -  https://pixabay.com/ Several stock images that relate to my baking company which will be shown below
--  https://pixabay.com/photos/cake-tart-berries-cream-4910417/ 
 -  https://pixabay.com/illustrations/apple-pie-sweet-food-fruit-pie-7519981/ 
 -  https://pixabay.com/photos/cake-pops-pastries-food-dessert-693645/ 
--  https://pixabay.com/photos/cookie-christmas-advent-plate-1864674/ 
 -  https://pixabay.com/photos/boy-child-eating-happy-cupcake-358296/ 
 -  https://pixabay.com/photos/cookie-bake-pastry-pastries-sweet-756601/ 
--  https://pixabay.com/photos/cake-sweet-food-bakery-dessert-727854/ 
-- https://pixabay.com/photos/cupcake-dessert-cake-food-3723832/ 
 -  https://pixabay.com/photos/blueberries-blue-cute-tart-cakes-55455/ 
 -  https://pixabay.com/illustrations/dessert-cake-pie-collage-food-1526620/ 
--  https://pixabay.com/photos/cookie-christmas-sweet-pastries-1769879/ 
 
 ## Things to do
 1. add schema information
