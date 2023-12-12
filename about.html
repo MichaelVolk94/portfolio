@@ -22,7 +22,7 @@
           <!-- [Logo] -->
           <img id="header-img" src="images/BakeryLogoSmall.png" alt="Sweetiez Bakery N' Treats logo">
         </a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -45,7 +45,7 @@
           </ul>
           <form class="d-flex" role="search">
             <input class="form-control m-0 rounded-0 text-bg-light" type="search" placeholder="Search" aria-label="Search">
-            <button class="btn btn-outline-primary rounded-0" type="submit"><i class="bi bi-search"></i></button>
+            <button class="btn btn-outline-primary rounded-0" type="submit" aria-label="submit button"><i class="bi bi-search"></i></button>
           </form>
         </div>
       </div>
@@ -53,13 +53,13 @@
   </header>
 
   <!-- creates centered 600px wrapper -->
-  <div class="wrapper">
+  <div class="wrapper" itemscope itemtype="https://schema.org/Organization">
     <div class="header">
-    <h1 class="about-banner" aria-level="2">About our company</h1>
+    <h1 class="about-banner" aria-level="2" itemprop="name">Sweeties Bakery N' Treatz</h1>
     <h2 class="about-banner" aria-level="3">"Let your taste buds be delighted."</h2>
 </div>
 <section class="container">
-<p>Sweetie's Bakery N' Treatz is a home based family owned 
+<p itemprop="description">Sweetie's Bakery N' Treatz is a home based family owned 
   company in the Ottawa area for the last two years. We are proud of selling
   our baked goods to the Ottawa Community, and giving smiles to
   our customers. 
@@ -68,17 +68,21 @@
     <img id="business" src="images/dessert-collage.jpeg" class="img-fluid card-border-0 rounded-0" alt="Items we sell">
     </div>
     <h2 class="about-banner" aria-level="3">Other Information</h2>
-    <h3 class="about-banner" aria-level="4">Mary Richardson</h3>
-    <p>Mary is an active busy mom of two children. She is a stay at home
-      who is new to the baking industry. She took up baking during the pandemic, and
-      and enjoys baking and creating new treats, and now wishes to share her many tasty
-      treats with everyone.
-    </p>
-    <img class="picture" src="images/IMG_7118.jpg" alt="Picture of Mary">
+    <div itemprop="employee" itemscope itemtype="https://schema.org/Person">
+      <h3 class="about-banner" aria-level="4" itemprop="name">Mary Richardson</h3>
+      <p itemprop="description">Mary is an active busy mom of two children. She is a stay at home
+        who is new to the baking industry. She took up baking during the pandemic, and
+        and enjoys baking and creating new treats, and now wishes to share her many tasty
+        treats with everyone.
+      </p>
+      <img itemprop="image" class="picture" src="images/IMG_7118.jpg" alt="Picture of Mary">
+    </div>
     </section>
 <footer>
     <p>&#169; Sweetie's Bakery N' Treatz 2023</p>
 </footer>
 </div>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+
 </body>
 </html>
