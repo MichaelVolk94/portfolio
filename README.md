@@ -7,7 +7,7 @@ Welcome to my web portfolio, I have created this portfolio as part of the Web De
 Making the design and breaking it down to smaller chunks was challenging for me. Especially when I had to do it in such a short timeframe. It also wasn't easy I had other assignments in the way. I also had trouble trying to figure out how to use Schema information, because I never figured out how to use it correctly. 
 
 # Lessons Learned
-I learned how to create functional buttons and created individual pages for them without problem. I also learned to be more comfortable with the material I'm given and be more efficient with my time.
+I learned how to create functional buttons and created individual pages for them without problem. I also learned to be more comfortable with the material I'm given and be more efficient with my time. If there are other classes, I hope to improve on the issues I had diffuclty with. 
 
 ## Frameworks and Libraries
 - [Bootstrap] (https://getbootstrap.com/)
