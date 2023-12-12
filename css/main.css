@@ -108,8 +108,7 @@
 
   .product-item {
     border-style: solid;
-    position: static;
-    margin: auto;
+    position: sticky;
     display: grid;
     text-align: center;
   }
