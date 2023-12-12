@@ -105,6 +105,15 @@
     text-align: center;
   }
 
+
+  .product-item {
+    border-style: solid;
+    position: static;
+    margin: auto;
+    display: grid;
+    text-align: center;
+  }
+
   /* Contact Information */
   form input,
 form textarea {
