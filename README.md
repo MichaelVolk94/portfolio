@@ -11,7 +11,6 @@ I learned how to create functional buttons and created individual pages for them
 
 ## Frameworks and Libraries
 - [Bootstrap] (https://getbootstrap.com/)
-- [Animate on scroll](https://michalsnik.github.io/aos/)
 
 # External Resources 
 -  https://fonts.google.com/specimen/Roboto [Roboto Google font]
@@ -22,7 +21,3 @@ I learned how to create functional buttons and created individual pages for them
 -  https://pixabay.com/photos/cookie-bake-pastry-pastries-sweet-756601/ 
 -  https://pixabay.com/photos/blueberries-blue-cute-tart-cakes-55455/ 
 -  https://pixabay.com/illustrations/dessert-cake-pie-collage-food-1526620/ 
-
-## Things to do
-1. add schema information
-2. to add picture tag with one more image for each image
