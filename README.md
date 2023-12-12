@@ -11,6 +11,7 @@ I learned how to create functional buttons and created individual pages for them
 
 ## Frameworks and Libraries
 - [Bootstrap] (https://getbootstrap.com/)
+- [Schema] (https://schema.org/)
 
 # External Resources 
 -  https://fonts.google.com/specimen/Roboto [Roboto Google font]
